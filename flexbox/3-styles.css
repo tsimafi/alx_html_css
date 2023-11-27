@@ -377,7 +377,7 @@
     flex-direction: row-reverse;
 }
 /* Section SERVICES ============================= */
-.section-latest-news .row {
+.section-services.row {
   row-rflex: wrap;
 }
   /*** 4. CARD ***/
